@@ -4,10 +4,10 @@ I am going to use netflix dataset for this project. It contain informaion about 
 How to run the code
 This is an executable Jupyter notebook. You can run and experiment with the code in a couple of ways: using free online resources (recommended) or on your own computer.
 
-##Option 1: Running using free online resources (1-click, recommended)
+Option 1: Running using free online resources (1-click, recommended)
 The easiest way to start executing this notebook is to click the "Run" button at the top of this page, and select "Run on Binder". This will run the notebook on mybinder.org, a free online service for running Jupyter notebooks. You can also select "Run on Colab" or "Run on Kaggle".
 
-##Option 2: Running on your computer locally
+Option 2: Running on your computer locally
 Install Conda by following these instructions. Add Conda binaries to your system PATH, so you can use the conda command on your terminal.
 
 Create a Conda environment and install the required libraries by running these commands on the terminal:
