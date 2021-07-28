@@ -12,9 +12,9 @@ Install Conda by following these instructions. Add Conda binaries to your system
 
 Create a Conda environment and install the required libraries by running these commands on the terminal:
 
-conda create -n zerotopandas -y python=3.8 
-conda activate zerotopandas
-pip install jovian jupyter numpy pandas matplotlib seaborn opendatasets --upgrade
+conda create -n pandas -y python=3.8 
+conda activate pandas
+pip install jupyter numpy pandas matplotlib seaborn opendatasets --upgrade
 Press the "Clone" button above to copy the command for downloading the notebook, and run it on the terminal. This will create a new directory and download the notebook.
 Enter the newly created directory using cd directory-name and start the Jupyter notebook.
 jupyter notebook
